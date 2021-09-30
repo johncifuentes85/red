@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936261670324",
+    "project_id": "storesale-890e9",
+    "storage_bucket": "storesale-890e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936261670324:android:c137e03300c749c16dcee1",
+        "android_client_info": {
+          "package_name": "com.example.red"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936261670324-errhnkhcd0a6thdvc6vp1jui4tm0r5eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrT_0Zcg2D5FGNM78f_HoXboawO6tdg74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936261670324-errhnkhcd0a6thdvc6vp1jui4tm0r5eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
